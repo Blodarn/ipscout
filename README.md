@@ -1,12 +1,10 @@
-# IPScout
+![IPScout-Menu](https://github.com/blodarn/ipscout/blob/main/IPScout-Menu.png?raw=true)
 
 ## 🌐 IP Intelligence Gathering Tool
 
 Interactive Python application designed to perform bulk queries for IP addresses using APIs from multiple services. Quickly gather and analyze abuse reports, geolocation data, detailed IP information, and authoritative registry data in a single, unified interface.
 
 **[View code](https://nbviewer.org/github/Blodarn/ipscout/blob/main/ipscout.ipynb)**
-
-![IPScout-Menu](https://github.com/blodarn/ipscout/blob/main/IPScout-Menu.png?raw=true)
 
 ## ✨ Key Features
 
