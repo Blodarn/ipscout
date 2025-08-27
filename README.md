@@ -4,6 +4,8 @@
 
 IP Intelligence Gathering Tool is an interactive Python application designed to perform bulk queries for IP addresses using APIs from multiple services. Quickly gather and analyze abuse reports, geolocation data, detailed IP information, and authoritative registry data in a single, unified interface.
 
+**[View code](https://nbviewer.org/github/Blodarn/ipscout/blob/main/ipscout.ipynb)**
+
 ## ✨ Key Features
 
 - 🛡️ **AbuseIPDB Integration**: Fetch abuse score, ISP reports, and last reported time for IPs.
