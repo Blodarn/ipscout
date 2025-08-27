@@ -6,6 +6,8 @@ Interactive Python application designed to perform bulk queries for IP addresses
 
 **[View code](https://nbviewer.org/github/Blodarn/ipscout/blob/main/ipscout.ipynb)**
 
+![IPScout-Menu](https://github.com/blodarn/ipscout/blob/main/IPScout-Menu.png?raw=true)
+
 ## ✨ Key Features
 
 - 🛡️ **AbuseIPDB Integration**: Fetch abuse score, ISP reports, and last reported time for IPs.
@@ -18,6 +20,8 @@ Interactive Python application designed to perform bulk queries for IP addresses
 - ⚡ **Parallel Processing**: Leverages multithreading for fast query execution on multiple IPs.
 
 ## 🖼️ Preview
+
+![IPScout-Demo](https://github.com/blodarn/ipscout/blob/main/IPScout-Demo.png?raw=true)
 
 ## 🚀 How to Use
 
